@@ -57,7 +57,7 @@ Before running this project, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/Rosemary-Njoroge/AI-Capstone-Project.git
-cd customer-segmentation-analysis
+
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
